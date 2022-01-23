@@ -5,6 +5,7 @@ trying azure free tts api with remix
   * npm install
   * npm run dev
   * navigate to localhost:3000
+  * if error "No such directory" appears, mkdir a folder in `/public` called `audios`
 
 later deploy it somewhere maybe
 
