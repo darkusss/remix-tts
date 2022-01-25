@@ -1,7 +1,7 @@
 # remix-tts
 trying azure free tts [api](https://docs.microsoft.com/en-us/azure/cognitive-services/speech-service/rest-text-to-speech) with [remix](https://remix.run)
 
-## start project
+## start project (it starts but the api won't work, I will fix it later)
   * npm install
   * npm run dev
   * navigate to localhost:3000
